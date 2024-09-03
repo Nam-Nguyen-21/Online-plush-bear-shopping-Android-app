@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navb_bongsac"
+        android:icon="@drawable/icon_bongsac"
+        android:title="Sản phẩm" />
+    <item
+        android:id="@+id/navb_Loaibongsac"
+        android:icon="@drawable/icon_loaibongsac"
+        android:title="Loại " />
+    <item
+        android:id="@+id/navb_HoaDon"
+        android:icon="@drawable/icon_hoadon"
+        android:title="Hóa Đơn" />
+    <item
+        android:id="@+id/navb_Top"
+        android:icon="@drawable/icon_top"
+        android:title="Top" />
+</menu>
